@@ -1,0 +1,8 @@
+# This program adds two integers
+
+a = 10
+b = 12
+sum = a + b
+print("The sum is:", sum)
+//print("The product is:", product)
+print("Numbers are fun")
